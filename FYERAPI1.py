@@ -13,9 +13,9 @@ from fyers_api import fyersModel
 from decimal import Decimal
 from fyers_api import fyersModel
 
-app_id = "5SNVZTE1PX"
+app_id = ur app id"
 
-app_secret = "WEGE5ZFCCG"
+app_secret = "ur secret id"
 
 app_session = accessToken.SessionModel(app_id, app_secret)
 
